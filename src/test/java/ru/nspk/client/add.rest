@@ -1,0 +1,9 @@
+POST http://localhost:6666/clients
+Content-Type: application/json
+
+{
+  "name": "Client_2",
+  "bank_id": 2
+}
+
+###
